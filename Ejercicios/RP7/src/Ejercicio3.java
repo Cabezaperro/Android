@@ -56,15 +56,23 @@ public class Ejercicio3
         num = a[0];
 
         for (int n : a)
+        {
             if (n != num)
                 iguales = false;
+
+            if (n < num)
+                num = n;
+        }
 
         if (iguales)
             throw new Exception("Todos los valores del array son iguales");
 
         for (int n : a)
             if (n > num)
+            {
                 num = n;
+                break;
+            }
 
         return num;
     }
