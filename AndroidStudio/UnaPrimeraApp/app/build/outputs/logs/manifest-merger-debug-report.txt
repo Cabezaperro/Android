@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6f2c53f8e39f273314c37b3f8d41d227\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c0aaef9902b4f60b0ce8a55e6c5d1d2e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e0353bdf14dd04fd9e4227a60dce04d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bc71a547e56f48d2c877a5d79dbbee3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a75fd2dee57cc885304079cd792a9cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5b7ccd0beabe288c64559fb56c29ab1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\013bff31afd30f86505872764995eac4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fbb795bab73f3cdf72a71f3c18aa5d12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e09bae0521ec0c251668a625a6bb52ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a462e4130ce9dbd2621798f895ee2e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fba9ace31ef0107834e0855f8ca6eaef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dda7790b3f4f38478fea3a2ab7832b28\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c0aaef9902b4f60b0ce8a55e6c5d1d2e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c0aaef9902b4f60b0ce8a55e6c5d1d2e\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#es.uam.eps.unaprimeraapp.ActividadPrincipal
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:13:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6f2c53f8e39f273314c37b3f8d41d227\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6f2c53f8e39f273314c37b3f8d41d227\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c0aaef9902b4f60b0ce8a55e6c5d1d2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c0aaef9902b4f60b0ce8a55e6c5d1d2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e0353bdf14dd04fd9e4227a60dce04d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e0353bdf14dd04fd9e4227a60dce04d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bc71a547e56f48d2c877a5d79dbbee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bc71a547e56f48d2c877a5d79dbbee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a75fd2dee57cc885304079cd792a9cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a75fd2dee57cc885304079cd792a9cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5b7ccd0beabe288c64559fb56c29ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5b7ccd0beabe288c64559fb56c29ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\013bff31afd30f86505872764995eac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\013bff31afd30f86505872764995eac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fbb795bab73f3cdf72a71f3c18aa5d12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fbb795bab73f3cdf72a71f3c18aa5d12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e09bae0521ec0c251668a625a6bb52ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e09bae0521ec0c251668a625a6bb52ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a462e4130ce9dbd2621798f895ee2e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a462e4130ce9dbd2621798f895ee2e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fba9ace31ef0107834e0855f8ca6eaef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fba9ace31ef0107834e0855f8ca6eaef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dda7790b3f4f38478fea3a2ab7832b28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\android9ed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dda7790b3f4f38478fea3a2ab7832b28\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9ed\AndroidStudioProjects\UnaPrimeraApp\app\src\main\AndroidManifest.xml

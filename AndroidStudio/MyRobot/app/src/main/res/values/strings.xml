@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRobot</string>
+    <string name="stringRobotin">Robotin picture</string>
+    <string name="stringRed">Red</string>
+    <string name="stringBlue">Blue</string>
+    <string name="stringGreen">Green</string>
+    <string name="stringTextoAndroid">Android is a widely-adopted open-source project. Google actively develops the Android platform but gives a portion of it for free to hardware manufacturers and phone carriers who want to use Android on their devices. Google only charges manufacturers if they also install the Google apps portion of the OS. Many (but not all) major devices that use Android also opt for the Google apps portion of the service. One notable exception is Amazon. Although Kindle Fire tablets use Android, they do not use the Google portions, and Amazon maintains a separate Android app store.</string>
+</resources>
