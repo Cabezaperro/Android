@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="es.uma.ac.asenjo.polacainversa.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Resultado"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="@+id/buttonMul"
+        app:layout_constraintRight_toRightOf="@+id/buttonMul"
+        app:layout_constraintTop_toBottomOf="@+id/buttonMul" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonEntra"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/buttonEntra"
+        app:layout_constraintRight_toLeftOf="@+id/buttonEntra" />
+
+    <Button
+        android:id="@+id/buttonEntra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="62dp"
+        android:onClick="EntraClick"
+        android:text="Entra"
+        app:layout_constraintLeft_toRightOf="@+id/editText"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintTop_creator="1" />
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="SumaClick"
+        android:text="+"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSub"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/buttonSub"
+        tools:layout_constraintBaseline_creator="1" />
+
+    <Button
+        android:id="@+id/buttonSub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-17dp"
+        android:onClick="RestaClick"
+        android:text="-"
+        app:layout_constraintLeft_toRightOf="@+id/buttonAdd"
+        app:layout_constraintRight_toLeftOf="@+id/buttonRes"
+        app:layout_constraintTop_toTopOf="@+id/buttonRes"
+        tools:layout_constraintTop_creator="1" />
+
+    <Button
+        android:id="@+id/buttonMul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="MultiplicaClick"
+        android:text="x"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonDiv"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/buttonDiv"
+        tools:layout_constraintBaseline_creator="1" />
+
+    <Button
+        android:id="@+id/buttonDiv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="47dp"
+        android:onClick="DivideClick"
+        android:text="/"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonRes"
+        app:layout_constraintLeft_toRightOf="@+id/buttonMul"
+        app:layout_constraintRight_toLeftOf="@+id/buttonRes"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSub"
+        app:layout_constraintVertical_bias="0.666"
+        tools:layout_constraintTop_creator="1" />
+
+    <Button
+        android:id="@+id/buttonRes"
+        android:layout_width="52dp"
+        android:layout_height="145dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="8dp"
+        android:onClick="ResultadoClick"
+        android:text="="
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintLeft_toLeftOf="@+id/buttonEntra"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonEntra"
+        app:layout_constraintVertical_bias="0.583"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+</android.support.constraint.ConstraintLayout>
