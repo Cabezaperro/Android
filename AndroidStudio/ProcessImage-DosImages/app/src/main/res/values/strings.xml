@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Process Image</string>
+    <string name="get_image">Get image</string>
+    <string name="textButtonProcess">Filter</string>
+    <string-array name="options">
+        <item>Blue</item>
+        <item>RedByBlue</item>
+        <item>Stereogram</item>
+        <item>Gray</item>
+        <item>Conv-edges</item>
+        <item>Conv-sharp</item>
+        <item>Conv-blur</item>
+    </string-array>
+</resources>
