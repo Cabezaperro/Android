@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="array_size">Array Size:</string>
+    <string name="hint_array_size">array_size</string>
+    <string name="thread_num">Thread num:</string>
+    <string name="hint_thread_num">thread_num</string>
+    <string name="parallel">Parallel</string>
+    <string name="cpp">C++</string>
+    <string name="init">Init array</string>
+    <string name="compute">Compute</string>
+    <string name="time_label">Time (ms):</string>
+
+    <string name="init_success">Arrays initialized</string>
+    <string name="init_error">Input is not an unsigned integer value</string>
+    <string name="compute_success">Vector product calculated</string>
+    <string name="compute_error">Arrays have not been initialized</string>
+</resources>

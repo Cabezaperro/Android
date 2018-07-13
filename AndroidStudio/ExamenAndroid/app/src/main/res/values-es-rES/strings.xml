@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="array_size">Tamaño array:</string>
+    <string name="thread_num">Núm threads:</string>
+    <string name="parallel">Paralelo</string>
+    <string name="cpp">C++</string>
+    <string name="init">Inicializar</string>
+    <string name="compute">Calcular</string>
+    <string name="time_label">Tiempo (ms):</string>
+    <string name="init_success">Arrays inicializados</string>
+    <string name="init_error">El valor introducido no es un número entero sin signo</string>
+    <string name="compute_success">Producto vectorial calculado</string>
+    <string name="compute_error">Los arrays no han sido inicializados</string>
+    <string name="hint_array_size">tamaño_array</string>
+    <string name="hint_thread_num">num_threads</string>
+</resources>
