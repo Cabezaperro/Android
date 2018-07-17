@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evaluación Android</string>
+    <string name="calcular">Calcular</string>
+    <string name="llamar">Llamar</string>
+    <string name="introduzca">Introduzca un número:</string>
+    <string name="numero">Número</string>
+    <string name="numVacio">El número no puede estar vacío.</string>
+</resources>
