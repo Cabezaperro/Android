@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity
         public void onReceive(Context context, Intent intent)
         {
             String action = intent.getAction();
-    
+            
             // Pantalla OFF
             if (action.compareTo(Intent.ACTION_SCREEN_OFF) == 0)
             {
@@ -73,8 +73,7 @@ public class MainActivity extends AppCompatActivity
         public void onReceive(Context context, Intent intent)
         {
             int status = intent.getIntExtra(BatteryManager.EXTRA_STATUS, -1);
-            boolean isCharging = status == BatteryManager.BATTERY_STATUS_CHARGING ||
-                    status == BatteryManager.BATTERY_STATUS_FULL;
+            boolean isCharging = status == BatteryManager.BATTERY_STATUS_CHARGING || status == BatteryManager.BATTERY_STATUS_FULL;
             
             if (isCharging)
             {
